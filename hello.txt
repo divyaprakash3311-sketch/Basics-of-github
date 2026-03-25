@@ -1,0 +1,15 @@
+# sample_code.py
+# A simple Python program to demonstrate GitHub repository usage
+
+def greet_user(name):
+    """Return a greeting message for the given user."""
+    return f"Hello, {name}! Welcome to my GitHub repository."
+
+def add_numbers(a, b):
+    """Return the sum of two numbers."""
+    return a + b
+
+if __name__ == "__main__":
+    # Example usage
+    print(greet_user("Divya"))
+    print("The sum of 5 and 7 is:", add_numbers(5, 7))
