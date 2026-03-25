@@ -8,8 +8,8 @@ I’m excited to share my learning journey and projects here.
 It's my first repository 🎉
 
 About Me  
-- **Name:** Divya Prakash  
-- **Department:** Computer Science  
+- **Name:** Divyadharshini G 
+- **Department:** Electronics and communication Engineering
 - **Interests:** Coding, Digital Skills, Generative AI, and Creative Design  
 
 
